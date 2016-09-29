@@ -1,5 +1,5 @@
 Discussion
-==================================================================
+***
 	Bash is the most popular Unix Shell written by Brian Fox for the GNU Project as a replacement for the Bourne Shell. It is the default shell for the Linux and OS X(Mac). People sometimes refers Bash as a synonym of Unix Shell. The beauty of Bash is programmers can directly access to file directories and manage them through couple of Command Lines. Often, for non-programmers those command-lines are hard to read and understand. Nonetheless, many programmers rely on the Bash because of its simplicity of command line and utilities. As previously explained, Bash allows us to work directly with the file system. Interacting with file system is the basic step to construct the reproducible work. Managing and separating data files, output files, and even image files is a starting point to reproduce the work.
 	
 Some basic Bash commands are described below:
