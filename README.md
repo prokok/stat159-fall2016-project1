@@ -1,5 +1,5 @@
 #Project1
-----------------------------------------------------------
+***  
 
 This repository contains the Project1 for the fall 2016, Statistics 159 at UC Berkeley.
 
