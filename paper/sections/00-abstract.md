@@ -2,7 +2,7 @@ Project1 ? Essay
 Stat159, Fall 2016, Phil Hoon Oh
 
 Abstract
-==================================================================
+***
 	
 	![R logo](images/stat159-logo.png)
 
