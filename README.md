@@ -1,5 +1,6 @@
-#Homework2
-===================================================
+#Project1
+----------------------------------------------------------
+
 This repository contains the Project1 for the fall 2016, Statistics 159 at UC Berkeley.
 
 This project is about writing an essay for the computational tools: Bash, Markdown, Pandoc, Git, Github, Make, and a text editor
