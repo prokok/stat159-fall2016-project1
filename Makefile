@@ -1,4 +1,4 @@
-.PHONY: all
+.PHONY: all clean
 
 all: paper.html paper.md clean
 
