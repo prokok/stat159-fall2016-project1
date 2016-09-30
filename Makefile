@@ -1,4 +1,4 @@
-.PHONY: all 
+.PHONY: all clean
 
 all: paper.html paper.md 
 
@@ -10,5 +10,6 @@ paper.md: paper/sections/00-abstract.md paper/sections/01-introduction.md paper/
 paper.html: paper.md  
 	cd paper; pandoc paper.md -s -o paper.html  
   
-
+clean: 
+	rm paper/paper.md paper/paper.html
 	
