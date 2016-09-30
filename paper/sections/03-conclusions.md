@@ -21,21 +21,27 @@ Commenting on the given aspects:
 >[http://gastonsanchez.com/stat159/lectures/05-crisis1-git-basics/](http://gastonsanchez.com/stat159/lectures/05-crisis1-git-basics/)    
 >[http://gastonsanchez.com/stat159/lectures/06-crisis2-github-basics/](http://gastonsanchez.com/stat159/lectures/06-crisis2-github-basics/)    
 
-- What were the easy part?  
+- What were the easy part? 
+
 The easiest part is explaining the relationship among computational tools and how they interact with each other. It was a process of explaining to these concepts to myself and the most insteresting part.
 
-- What were the challenging part?    
+- What were the challenging part? 
+   
 The most challenging part is get used to markdown syntax. Everytime I wrote down the markdown syntax, the result did not appear as I expected. It was the most time consuming part but it helped me a lot to get used to markdown syntax.
 
 - What things stuck with?    
+
 Working on local directory using git was fun, but synchronizing my local directory to my github account was a little bit ambiguous to me. The problem was I had no idea how Github works behind the scenes. This projects helped me a lot to grasp the concpet of Github.
 
 - What was the most consuming part?    
+
 As I mentioned on the previous question, the markdown syntax was the most time consuming part because I needed some time to get used to it.
 
 - Did I work with and/or get help from someone else?  
+
 No. I workd on it by myself for the whole time. Maybe a little bit of help from professor.
 
 - How much time did it take?  
+
 It took approximately 8 hours to complete the essay and get the output as I wanted.
 	
