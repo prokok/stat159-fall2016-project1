@@ -15,7 +15,7 @@ Some basic Bash commands are described below:
 	
 Our next tool is Markdown.  
 
-![Markdown logo](images/markdown-logo.png)  
+![Markdown logo](../images/markdown-logo.png)  
 	
 As explained earlier in the introduction. Markdown is a tool that converts text to HTML(XHTML) output. Markdown files are denoted by .md and most of the time they are written on text editors. The huge advantage of Markdown is that programmer don’t need to write down the whole HTML format. It uses a very simple formatting syntax to accomplish the same thing. Furthermore, users don’t need to learn new feature to understand and utilize the markdown. Instead, Markdown uses punctuations and characters to get the desired outputs. For example, if a programmer wants to create italics with a bold sentence, all he has to do is just put two-asterisks and under-bar on each ends of the sentence where he tries to make those changes.  
 
@@ -29,7 +29,7 @@ The role of Markdown in reproducibility research is concerned with the result, n
 
 It is obvious that Markdown itself does not produce output files in different formats other than HTML. With the help of Pandoc, this issue can be easily solved. 
 
-![Pandoc Logo](images/pandoc-logo.png)  
+![Pandoc Logo](../images/pandoc-logo.png)  
 
 Pandoc is one of the most powerful and widely used tools for researchers and programmers converting one file format into other file formats. In contrast to Markdown which limited to md and html files, Pandoc can also convert Markdown to other formats. Those who are familiar with the R will also know R-markdown. As one can infer from its name, it is based on the markdown tool, but also it is based on the Pandoc. The main developer, Yihui Xie, mentioned that there will be no updated version of Rmarkdown unless there is more powerful program than Pandoc. With Pandoc and Markdown, researcher can reproduce the output file in various data formats. Instead of writing different file types each time, just couple of lines or one click will reproduce the output file they want.  
 
@@ -44,11 +44,11 @@ Here are commands that widely used for pandoc to convert md files into html file
 
 The core tools for reproducibility in statistical data science are Git and Github. First, let’s take a look at Git.   
 	
-![Git-logo](images/git-logo.png)  
+![Git-logo](../images/git-logo.png)  
 
 Git is a VCS(Version Control System) developed by Linus Torvalds and the most widely used vcs software in the world today. Version Control System allows users to keep track of the changes to a file or set of files over time. For examples, suppose a programmer made changes on his source code. Instead of saving this file as a new version, Git allows us to take a snapshot of changes and store those changes and identify them as log numbers. By doing so, Programmer don’t be bothered to save source file over and over again when he makes new changes to his course code. If something went wrong, users can restart with the previous versions of source code. This property makes Git very useful in a reproducibility process that requires a lots of modifications.   
 
-![Github-logo](images/github-logo.png)  
+![Github-logo](../images/github-logo.png)  
   
 Github provides does exactly the same thing as Git does, but it is based on the web.  Github provides distributed remote repository that researchers can collaborate or work independently. Unlike centralized repository, users do not need to communicate with a central server. It is much more faster and no network access required. Thus, it allows multiple users to collaborate at the same time.  
 

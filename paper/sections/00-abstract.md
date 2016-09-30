@@ -7,7 +7,7 @@ Phil Hoon Oh
 #Abstract  
 ***  
 
-![Stat159 logo](images/stat159-logo.png)
+![Stat159 logo](../images/stat159-logo.png)
 
 This essay is about computational tools with regards to reproducible and collaborative statistical data science: Bash, Markdown, Pandoc, Git ,Github, Make, and a text editor. The roles of these programs in reproducibility and how they interact with each other will be discussed.  
 In introduction, we will mainly focus on the needs of reproducibility in statistical data science. The problems caused by non-reproducibility, and 
