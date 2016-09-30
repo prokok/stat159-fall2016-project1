@@ -7,8 +7,8 @@ This project is about writing an essay for the computational tools: Bash, Markdo
 
 In this repository, there are 2 directories namely, paper and images.
 
-Paper includes sections and output files from sections. Sections includes abstract, introduction, discussion, and conclusion md files.
+Paper includes sections directory, paper.html, and paper.md. In sections, there are 4 md files: 00-abstract, 01-introduction, 02-discussion, and 03-conclusion.
 
-Images contains png files that are put on the outputfile.
+Images contains png files that are used in md files.
 
 Author : Phil Hoon, Oh
